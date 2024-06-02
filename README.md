@@ -1,4 +1,11 @@
-# React + Vite
+# Extract colors react test
+
+Example of Extract Colors with minimal React setup:
+
+- [extract-colors-react-test](https://namide.github.io/extract-colors-react-test/)
+- [extract-colors lib](https://extract-colors.namide.com/)
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
